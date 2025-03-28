@@ -1,5 +1,6 @@
 import time
 
+# https://youtu.be/4wGuB3oAKc4
 
 my_time = int(input("Enter the time in seconds: "))
 

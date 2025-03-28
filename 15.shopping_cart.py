@@ -1,5 +1,5 @@
 # Shopping cart program
-
+# https://youtu.be/4wGuB3oAKc4
 foods = []
 prices = []
 total = 0
